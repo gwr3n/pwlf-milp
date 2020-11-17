@@ -10,6 +10,7 @@ pwlf-milp provides an implementation of the techniques presented in
 R. Rossi, O. A. Kilic, S. A. Tarim, 
 "Piecewise linear approximations for the static-dynamic uncertainty strategy in stochastic lot-sizing", 
 OMEGA - the International Journal of Management Science, Elsevier, Vol. 50:126-140, 2015
+http://dx.doi.org/10.1016/j.omega.2014.08.003
 
 R. Rossi, S. A. Tarim, B. Hnich and S. Prestwich, 
 "Piecewise linear lower and upper bounds for the standard normal first order loss function", 
