@@ -36,6 +36,7 @@ import umontreal.ssj.probdist.NormalDist;
 import umontreal.ssj.probdist.PoissonDist;
 import umontreal.ssj.probdist.UniformDist;
 
+@SuppressWarnings("unused")
 public class TestMILPModelPenalty {
    
    /**

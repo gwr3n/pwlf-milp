@@ -33,6 +33,7 @@ import umontreal.ssj.stat.Tally;
 import umontreal.ssj.probdist.Distribution;
 import umontreal.ssj.probdist.NormalDist;
 
+@SuppressWarnings("unused")
 public class SimulatePoliciesBackorders {
 	
 	public static double[] simulatePenalty(
